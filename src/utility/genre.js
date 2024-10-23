@@ -1,0 +1,22 @@
+ const genreIds = {
+  28: "Action",
+  12: "Adventure",
+  16: "Animation",
+  35: "Comedy",
+  80: "Crime",
+  99: "Documenatary",
+  18: "Drama",
+  10751: "Family",
+  14: "Fantsay",
+  36: "History",
+  27: "horror",
+  10402: " Music",
+  9648: "Mystery",
+  10749: "Romance",
+  878: "Sci-Fi",
+  10770: "Tv",
+  53: "Thirller",
+  10752: "War",
+  37: "Western",
+};
+export default genreIds;
